@@ -19,7 +19,7 @@ h1 {
 h2 {
   font-size: 3.25rem;
 }
-#profile-image {
+#image {
   max-width: 100%;
   display: block;
   margin-left: auto;
@@ -28,7 +28,7 @@ h2 {
 #image-caption {
   margin: 15px 0 5px 0;
 }
-#bio-headline {
+#tribute-info {
   margin: 50px 0;
   text-align: center;
 }
